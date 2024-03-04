@@ -1,1 +1,1 @@
-Normal que no esta enun repositorio de git
+Ahora este archivo sí esta en un repositorio
